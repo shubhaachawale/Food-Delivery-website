@@ -1,4 +1,4 @@
 # Food-Delivery-website
-This is my self Project with HTNL and CSS
+This is my self Project with HTML and CSS
 <br>
 Author - shubham Aachawale
